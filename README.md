@@ -58,7 +58,7 @@ Node.js v24.12.0
 
 # @ast-grep/napi@0.39.9
 
-1. `npm install @ast-grep/napi`
+1. `npm install @ast-grep/napi@0.39.9`
 2. `npm why @ast-grep/napi`: @ast-grep/napi@0.39.9
 3. `node -e 'console.log(require("@ast-grep/napi").Lang.JavaScript)'`
 
