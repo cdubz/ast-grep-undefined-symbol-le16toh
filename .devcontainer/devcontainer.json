@@ -1,4 +1,7 @@
 {
 	"name": "Node.js",
-	"image": "mcr.microsoft.com/devcontainers/javascript-node:24-trixie"
+	"image": "mcr.microsoft.com/devcontainers/javascript-node:24-trixie",
+	"runArgs": [
+    "--platform=linux/amd64"
+  ]
 }
